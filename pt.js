@@ -2,7 +2,7 @@
 const puppeteer = require('puppeteer');
 const axios = require('axios')
 const fs=require('fs')
-let url='http://www.yaoqimh.net/shaonvmanhua/6415_2.html'
+let url=''
 let cnt = 1
 
 async function run(url){
